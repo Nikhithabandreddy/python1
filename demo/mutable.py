@@ -1,0 +1,17 @@
+n=[1,2,3,4,5]
+print(n)
+print("-----")
+n[0]=11
+print(n)
+print("-----")
+n[1]=22
+print(n)
+print("-----")
+n[2]=33
+print(n)
+print("-----")
+n[3]=44
+print(n)
+print("-----")
+n[4]=55
+print(n)
